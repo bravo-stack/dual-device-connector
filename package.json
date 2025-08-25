@@ -1,0 +1,23 @@
+{
+	"name": "dual-device-connector",
+	"version": "1.0.0",
+	"description": "establish a simple connection between two devices on the same local network",
+	"main": "server.js",
+	"scripts": {
+		"test": "test",
+		"start": "node server.js"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/bravo-stack/dual-device-connector.git"
+	},
+	"keywords": [
+		"connector"
+	],
+	"author": "Abu Zaynab Amir Bravostack",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/bravo-stack/dual-device-connector/issues"
+	},
+	"homepage": "https://github.com/bravo-stack/dual-device-connector#readme"
+}
