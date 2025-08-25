@@ -19,5 +19,11 @@
 	"bugs": {
 		"url": "https://github.com/bravo-stack/dual-device-connector/issues"
 	},
-	"homepage": "https://github.com/bravo-stack/dual-device-connector#readme"
+	"homepage": "https://github.com/bravo-stack/dual-device-connector#readme",
+	"dependencies": {
+		"dotenv": "^17.2.1"
+	},
+	"devDependencies": {
+		"nodemon": "^3.1.10"
+	}
 }
